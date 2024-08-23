@@ -1,0 +1,9 @@
+<nav>
+	<div class="topnav">
+		<a href="/"> <b>TODO APP</b></a>
+		<a href="home" class="${homeActive}">Home</a>
+	  	<a href="add-todo" class="${addTodoActive}">Add new todo</a>
+	  	<a href="about" class="${aboutActive}">About</a>
+	  	<a href="logout" class="split">Logout</a>
+	</div>
+</nav>
